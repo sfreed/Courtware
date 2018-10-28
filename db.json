@@ -1,6 +1,5 @@
 {
-  "trespassers": [
-{
+  "trespassers": [{
     "ID": 1,
     "FirstName": "Bill",
     "MiddleName": "Power",
@@ -46,7 +45,7 @@
     "City": "Atlanta",
     "State": "GA",
     "Zip": "30303"
-},{
+  },{
     "ID": 3,
     "FirstName": "Bill",
     "MiddleName": "Power",
@@ -92,7 +91,7 @@
     "City": "Atlanta",
     "State": "GA",
     "Zip": "30303"
-},{
+  },{
     "ID": 5,
     "FirstName": "Bill",
     "MiddleName": "Power",
@@ -138,7 +137,7 @@
     "City": "Atlanta",
     "State": "GA",
     "Zip": "30303"
-},{
+  },{
     "ID": 7,
     "FirstName": "Bill",
     "MiddleName": "Power",
@@ -184,7 +183,7 @@
     "City": "Atlanta",
     "State": "GA",
     "Zip": "30303"
-},{
+  },{
     "ID": 9,
     "FirstName": "Bill",
     "MiddleName": "Power",
@@ -230,7 +229,7 @@
     "City": "Atlanta",
     "State": "GA",
     "Zip": "30303"
-},{
+  },{
     "ID": 11,
     "FirstName": "Bill",
     "MiddleName": "Power",
@@ -276,7 +275,7 @@
     "City": "Atlanta",
     "State": "GA",
     "Zip": "30303"
-},{
+  },{
     "ID": 13,
     "FirstName": "Bill",
     "MiddleName": "Power",
@@ -322,6 +321,5 @@
     "City": "Atlanta",
     "State": "GA",
     "Zip": "30303"
-}
-  ]
+  }]
 }
